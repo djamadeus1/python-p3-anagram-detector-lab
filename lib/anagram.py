@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class Anagram: # your code goes here!
     def __init__(self, word):
         self.word = word
